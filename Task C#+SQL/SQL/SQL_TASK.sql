@@ -3,18 +3,18 @@ leftPart (Id, Name)
 as 
 (
 select Id, Name 
-    from #produc
+    from Product
 ),
 
-rightPart(idProduct, Name)
+rightPart(IdProduct, Name)
 as 
 (
 select IdProduct, Name 
-    from #produc_categories 
+    from Product_Categories 
         as pc 
-    join #categories 
+    join Categories 
         as c 
-    on pc.idCategories = c.Id
+    on pc.IdCategories = c.Id
 )
 
 select lp.Name as Product ,isnull(rp.Name,'No categories') as Categories 
