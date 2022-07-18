@@ -1,0 +1,10 @@
+D:\Unity Games\Site\MySite\FigureCalculator\obj\Debug\netcoreapp3.1\FigureCalculator.AssemblyInfoInputs.cache
+D:\Unity Games\Site\MySite\FigureCalculator\obj\Debug\netcoreapp3.1\FigureCalculator.AssemblyInfo.cs
+D:\Unity Games\Site\MySite\FigureCalculator\obj\Debug\netcoreapp3.1\FigureCalculator.csproj.CoreCompileInputs.cache
+D:\Unity Games\Site\MySite\FigureCalculator\bin\Debug\netcoreapp3.1\FigureCalculator.deps.json
+D:\Unity Games\Site\MySite\FigureCalculator\bin\Debug\netcoreapp3.1\FigureCalculator.dll
+D:\Unity Games\Site\MySite\FigureCalculator\bin\Debug\netcoreapp3.1\FigureCalculator.pdb
+D:\Unity Games\Site\MySite\FigureCalculator\obj\Debug\netcoreapp3.1\FigureCalculator.dll
+D:\Unity Games\Site\MySite\FigureCalculator\obj\Debug\netcoreapp3.1\FigureCalculator.pdb
+D:\Unity Games\Site\MySite\FigureCalculator\obj\Debug\netcoreapp3.1\FigureCalculator.csproj.AssemblyReference.cache
+D:\Unity Games\Site\MySite\FigureCalculator\obj\Debug\netcoreapp3.1\FigureCalculator.GeneratedMSBuildEditorConfig.editorconfig
